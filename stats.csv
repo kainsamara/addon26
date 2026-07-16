@@ -1,4 +1,5 @@
-# OFFGOTCHI leaderboard  generated=2026-07-16T15:57:36Z  devices=2
+# OFFGOTCHI leaderboard  generated=2026-07-16T16:20:21Z  devices=3
 id,name,type,level,won,lost
-74DE,Kain,3,10,1,2
-E846,DEADROOT,2,10,2,1
+74DE,Kain,3,13,3,2
+E846,DEADROOT,2,12,3,2
+EAE6,Dok,4,6,0,1
