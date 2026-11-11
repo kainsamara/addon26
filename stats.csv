@@ -1,7 +1,9 @@
-# OFFGOTCHI leaderboard  generated=2026-08-21T18:57:16Z  devices=5
+# OFFGOTCHI leaderboard  generated=2026-11-11T10:56:08Z  devices=7
 id,name,type,level,won,lost
 2812,Pinq,3,32,4,0
-4D02,vladko,3,14,0,0
-2886,CUB_3_3,1,0,0,0
 36B6,Kain,2,16,2,1
+4D02,vladko,3,14,0,0
+36B4,Kain,2,9,2,0
 2E16,Kuwee,4,9,0,1
+60C8,Test,1,7,0,1
+2886,CUB_3_3,1,0,0,1
