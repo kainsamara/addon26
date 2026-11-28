@@ -1,6 +1,7 @@
-# OFFGOTCHI leaderboard  generated=2026-11-28T11:10:50Z  devices=9
+# OFFGOTCHI leaderboard  generated=2026-11-28T11:25:53Z  devices=14
 id,name,type,level,won,lost
 F8C8,BbOlp,4,104,75,8
+BEEF,Sparring,4,100,4,0
 3728,Husky,2,53,8,4
 60C8,Pinq,3,32,16,21
 36B4,Kain,2,32,7,22
@@ -8,4 +9,8 @@ F8C8,BbOlp,4,104,75,8
 54DC,eblanchi,4,25,1,8
 4D02,vladko,3,14,2,29
 2E16,Kuwee,4,9,1,21
-BEEF,Sparring,4,5,1,0
+B003,Punchbag,2,1,1,0
+B001,Punchbag,2,1,0,1
+B002,Punchbag,2,1,0,1
+B004,Punchbag,2,1,0,1
+B005,Punchbag,2,1,0,1
