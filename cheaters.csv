@@ -1,7 +1,28 @@
-# OFFGOTCHI cheaters (honeypot)  generated=2026-11-28T11:40:57Z  devices=5
+# OFFGOTCHI cheaters (honeypot)  generated=2026-11-28T11:56:00Z  devices=26
 id,name,type,level,won,lost,attempts
+4D02,Husky,4,255,2,29,1
+2E16,Huskyasd,4,255,1,21,1
+36B4,Kain,4,255,7,22,8
+54DC,Husky,4,255,1,8,1
+B001,Husky,4,255,0,1,1
+B002,Husky,4,255,0,1,1
+B003,Husky,4,255,1,0,1
+B004,Husky,4,255,0,1,1
+B005,Huskyasd,4,255,0,1,1
+SCRL,Husky,4,255,1,1,1
+GNRL,Husky,4,255,0,1,1
+SPRK,Husky,4,255,0,1,1
+ZAP,Husky,4,255,1,0,1
+MELT,Husky,4,255,0,1,1
+BYTE,Husky,4,255,0,1,1
+RB01,Husky,4,255,0,1,1
+MG01,Husky,4,255,0,1,1
+V001,Huskyasd,4,255,0,0,1
 F8C8,BbOlp,4,104,75,8,6
+3728,Husky,2,53,8,4,1
 VL01,Voltz,2,35,1,0,1
+60C8,Pinq,3,32,16,21,3
 FL01,Flora,3,30,0,1,1
+3588,aNTOn,4,27,4,1,1
 TK01,Tanko,4,25,0,1,1
 DEAD,TestPet1,1,1,0,1,3
