@@ -1,3 +1,7 @@
-# OFFGOTCHI cheaters (honeypot)  generated=2026-11-28T11:25:54Z  devices=1
+# OFFGOTCHI cheaters (honeypot)  generated=2026-11-28T11:40:57Z  devices=5
 id,name,type,level,won,lost,attempts
-DEAD,TestPet,1,1,0,1,1
+F8C8,BbOlp,4,104,75,8,6
+VL01,Voltz,2,35,1,0,1
+FL01,Flora,3,30,0,1,1
+TK01,Tanko,4,25,0,1,1
+DEAD,TestPet1,1,1,0,1,3
